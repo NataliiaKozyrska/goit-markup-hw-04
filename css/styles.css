@@ -310,6 +310,7 @@ ul {
 .feature-section {
   display: flex;
   gap: 24px;
+  /* padding: 32px 0; */
 }
 .section-team {
   margin-bottom: 72px;
